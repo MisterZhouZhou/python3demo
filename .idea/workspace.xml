@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68997408-81cc-4da3-a4e6-a08331978476" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo4/simsun.ttc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo4/中华字体网.url" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo5/DgSpider/DgSpider/spiders/douban.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo5/DgSpider/DgSpider/spiders/quote_spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo6/csdn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drawline/drawing2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drawline/drawing3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drawline/drawing4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drawline/drawling1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robotdemo/datingTestSet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robotdemo/robot1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robotdemo/robot2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python3demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python3demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drawline/drawing4.py" beforeDir="false" afterPath="$PROJECT_DIR$/drawline/drawing4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,13 +46,18 @@
       <file leaf-file-name="drawing4.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/drawline/drawing4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <state relative-caret-position="190">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
               <folding>
                 <element signature="e#26#44#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="line.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drawline/line.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -281,12 +272,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="279" y="243" width="1363" height="877" extended-state="0" />
+    <frame x="249" y="23" width="1363" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15722802" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32948717" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32948717" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38846153" />
@@ -300,30 +292,12 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32948717" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo5/DgSpider/DgSpider/spiders/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo6/csdn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-          <folding>
-            <element signature="e#200#221#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo/lagou.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1463">
@@ -648,10 +622,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/drawline/sinx.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drawline/line.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/drawline/drawing4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="190">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding>
             <element signature="e#26#44#0" expanded="true" />
           </folding>
