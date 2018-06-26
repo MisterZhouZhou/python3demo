@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <!--引入jquery-->
+        {{moment.include_jquery()}}
+        <!--引入moment-->
+        {{moment.include_moment()}}
+        {{moment.lang("zh-CN")}}
+    </head>
+    <body>
+        {{moment(current_time).format('YYYY-MM-DD,h:mm:ss a')}}
+    </body>
+</html>
