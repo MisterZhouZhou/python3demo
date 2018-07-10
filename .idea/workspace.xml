@@ -2,37 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68997408-81cc-4da3-a4e6-a08331978476" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/flask/demo1/gtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/demo1/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/demo1/monent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/demo1/static/test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/demo1/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/demo1/templates/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/demo1/templates/common.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/demo1/templates/iftest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/demo1/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/demo1/templates/moment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/demo1/templates/param.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/demo1/templates/statictest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/demo1/templates/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/demo1/templates/user.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/demo1/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/first.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/threadLocal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/user_agent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_blog/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_blog/app/email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_blog/app/main/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_blog/app/main/errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_blog/app/main/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_blog/app/main/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_blog/app/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_blog/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_blog/manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_blog/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process/process1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/demo3/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/demo3/app/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/demo3/app/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_blog/app/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_blog/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_blog/app/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/test2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/testimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qqbotdemo/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robotdemo/robot3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robotdemo/simsun.ttc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sklearn/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sklearn/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sklearn/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sklearn/test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sklearn/test5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wifi/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wxpydemo/demo1/background.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wxpydemo/demo1/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wxpydemo/demo1/stopwords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wxpydemo/demo2/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wxpydemo/demo2/hanyi.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wxpydemo/demo2/simsun.ttc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wxpydemo/demo3/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python3demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python3demo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_blog/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask_blog/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_blog/app/email.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/demo3/app/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_blog/app/main/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/demo2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_blog/app/main/errors.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/demo3/app/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_blog/app/main/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/demo3/app/templates/my-script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_blog/app/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/demo3/app/templates/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_blog/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask_blog/app/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_blog/manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask_blog/app/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_blog/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/flask_blog/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robotdemo/robot2.py" beforeDir="false" afterPath="$PROJECT_DIR$/robotdemo/robot2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,72 +53,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_blog/config.py">
+      <file leaf-file-name="test1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wxpydemo/demo3/test1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="38" column="6" selection-start-line="38" selection-end-line="38" selection-end-column="6" />
+            <state relative-caret-position="260">
+              <caret line="54" column="85" selection-start-line="54" selection-start-column="85" selection-end-line="54" selection-end-column="85" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manager.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_blog/manager.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_blog/app/main/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="errors.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_blog/app/main/errors.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_blog/app/main/forms.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_blog/app/main/views.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/flask_blog/app/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flask_moment.py" pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/lib/python3.6/site-packages/flask_moment.py">
+      <file leaf-file-name="index.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/qqbotdemo/index.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
-              </folding>
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="email.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_blog/app/email.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_blog/app/models.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="qqbotcls.py" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/lib/python3.6/site-packages/qqbot/qqbotcls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="341" column="13" lean-forward="true" selection-start-line="341" selection-start-column="13" selection-end-line="341" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -120,6 +99,18 @@
       <find>download_by_url</find>
       <find>Myobj</find>
       <find>MAIL_USERNAME</find>
+      <find>tesseract</find>
+      <find>font</find>
+      <find>PyWiFi</find>
+      <find>page_content</find>
+      <find>simsun.</find>
+      <find>simsun</find>
+      <find>++++</find>
+      <find>member</find>
+      <find>好友</find>
+      <find>onQQMessage</find>
+      <find>GroupMember</find>
+      <find>===</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -128,25 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo/lagou.md" />
-        <option value="$PROJECT_DIR$/demo2/request1.py" />
-        <option value="$PROJECT_DIR$/demo2/request2.py" />
-        <option value="$PROJECT_DIR$/demo2/request3.py" />
-        <option value="$PROJECT_DIR$/demo2/trytest.py" />
-        <option value="$PROJECT_DIR$/demo2/yourip.py" />
-        <option value="$PROJECT_DIR$/demo3/sina1.py" />
-        <option value="$PROJECT_DIR$/demo4/douban1.py" />
-        <option value="$PROJECT_DIR$/demo4/xiaoshuo.py" />
-        <option value="$PROJECT_DIR$/demo4/wumingxioazhu.py" />
-        <option value="$PROJECT_DIR$/demo4/demo.py" />
-        <option value="$PROJECT_DIR$/demo5/DgSpider/DgSpider/spiders/douban.py" />
-        <option value="$PROJECT_DIR$/demo5/DgSpider/DgSpider/items.py" />
-        <option value="$PROJECT_DIR$/demo5/DgSpider/DgSpider/spiders/quote_spider.py" />
-        <option value="$PROJECT_DIR$/demo6/csdn.py" />
-        <option value="$PROJECT_DIR$/drawline/drawling1.py" />
-        <option value="$PROJECT_DIR$/drawline/drawing2.py" />
-        <option value="$PROJECT_DIR$/drawline/drawing3.py" />
-        <option value="$PROJECT_DIR$/drawline/drawing4.py" />
         <option value="$PROJECT_DIR$/process/process.py" />
         <option value="$PROJECT_DIR$/process/process1.py" />
         <option value="$PROJECT_DIR$/flask/first.py" />
@@ -166,14 +138,44 @@
         <option value="$PROJECT_DIR$/flask/demo1/monent.py" />
         <option value="$PROJECT_DIR$/flask/demo1/templates/moment.html" />
         <option value="$PROJECT_DIR$/flask/demo1/gtest.py" />
+        <option value="$PROJECT_DIR$/img/index.py" />
+        <option value="$PROJECT_DIR$/robotdemo/robot2.py" />
+        <option value="$PROJECT_DIR$/robotdemo/robot3.py" />
+        <option value="$PROJECT_DIR$/numpy/test1.py" />
+        <option value="$PROJECT_DIR$/numpy/test2.py" />
+        <option value="$PROJECT_DIR$/sklearn/test1.py" />
+        <option value="$PROJECT_DIR$/sklearn/test2.py" />
+        <option value="$PROJECT_DIR$/wifi/index.py" />
+        <option value="$PROJECT_DIR$/sklearn/test3.py" />
+        <option value="$PROJECT_DIR$/sklearn/test4.py" />
+        <option value="$PROJECT_DIR$/sklearn/test5.py" />
+        <option value="$PROJECT_DIR$/midi/test1.py" />
+        <option value="$PROJECT_DIR$/midiDemo/test1.py" />
+        <option value="$PROJECT_DIR$/flask_blog/d.py" />
+        <option value="$PROJECT_DIR$/flask_blog/support.py" />
+        <option value="$PROJECT_DIR$/flask_blog/test.py" />
         <option value="$PROJECT_DIR$/flask_blog/config.py" />
         <option value="$PROJECT_DIR$/flask_blog/app/__init__.py" />
+        <option value="$PROJECT_DIR$/flask_blog/app/templates/base.html" />
+        <option value="$PROJECT_DIR$/flask_blog/app/routes.py" />
+        <option value="$PROJECT_DIR$/flask/demo2/__init__.py" />
+        <option value="$PROJECT_DIR$/flask/demo3/app/templates/404.html" />
+        <option value="$PROJECT_DIR$/flask/demo3/app/templates/user.html" />
+        <option value="$PROJECT_DIR$/flask/demo3/app/templates/base.html" />
+        <option value="$PROJECT_DIR$/flask/demo3/app/templates/index.html" />
+        <option value="$PROJECT_DIR$/flask/demo3/app/__init__.py" />
+        <option value="$PROJECT_DIR$/wxpy/index.py" />
+        <option value="$PROJECT_DIR$/wxpydemo/index.py" />
+        <option value="$PROJECT_DIR$/wxpydemo/demo.py" />
+        <option value="$PROJECT_DIR$/wxpydemo/demo2/demo.py" />
+        <option value="$PROJECT_DIR$/wxpydemo/demo3/test1.py" />
+        <option value="$PROJECT_DIR$/qqbotdemo/index.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="624" />
-    <option name="y" value="101" />
+    <option name="x" value="346" />
+    <option name="y" value="23" />
     <option name="width" value="1363" />
     <option name="height" value="877" />
   </component>
@@ -192,25 +194,18 @@
             <path>
               <item name="python3demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="python3demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flask_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="qqbotdemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python3demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="python3demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flask_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="wxpydemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python3demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="python3demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flask_blog" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python3demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python3demo" type="462c0819:PsiDirectoryNode" />
-              <item name="robotdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="wxpydemo" type="462c0819:PsiDirectoryNode" />
+              <item name="demo3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,14 +216,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/flask/demo1/static" />
-      <recent name="$PROJECT_DIR$/flask/demo1/templates" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/demo2" />
+      <recent name="$PROJECT_DIR$/wxpydemo/demo2" />
+      <recent name="$PROJECT_DIR$/wxpydemo" />
+      <recent name="$PROJECT_DIR$/flask/demo3/app/templates" />
+      <recent name="$PROJECT_DIR$/flask/demo3/app" />
+      <recent name="$PROJECT_DIR$/flask_blog/app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wxpydemo/demo2" />
+      <recent name="$PROJECT_DIR$/wxpydemo/demo1" />
+      <recent name="$PROJECT_DIR$/flask/demo3/app/static" />
+      <recent name="$PROJECT_DIR$/flask_blog" />
+      <recent name="$PROJECT_DIR$/flask_blog/app" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -243,8 +246,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.config">
-    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.index (1)">
+    <configuration name="__init__ (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,17 +255,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_blog" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask/demo3/app" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_blog/config.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask/demo3/app/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="gtest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,11 +273,29 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask/demo1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wxpydemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask/demo1/gtest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wxpydemo/demo2/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="index (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qqbotdemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qqbotdemo/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,17 +309,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask/demo1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wxpydemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask/demo1/index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wxpydemo/demo1/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="monent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,48 +327,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask/demo1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wxpydemo/demo3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask/demo1/monent.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python3demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask/demo1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask/demo1/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wxpydemo/demo3/test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
+      <item itemvalue="Python.__init__ (2)" />
       <item itemvalue="Python.index" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.monent" />
-      <item itemvalue="Python.gtest" />
-      <item itemvalue="Python.config" />
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.test1" />
+      <item itemvalue="Python.index (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.config" />
-        <item itemvalue="Python.gtest" />
-        <item itemvalue="Python.monent" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.index (1)" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.demo" />
         <item itemvalue="Python.index" />
+        <item itemvalue="Python.__init__ (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -365,17 +368,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="624" y="101" width="1363" height="877" extended-state="0" />
+    <frame x="497" y="23" width="1363" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15722802" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15722802" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007452" side_tool="true" visible="true" weight="0.26410258" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.33830103" side_tool="true" visible="true" weight="0.3423077" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49776453" weight="0.32820514" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32948717" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925485" visible="true" weight="0.26410258" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.66169894" visible="true" weight="0.3423077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2448718" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49701938" weight="0.24421594" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -384,262 +388,130 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32948717" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo2/request2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo4/xiaoshuo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo4/wumingxioazhu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo4/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="32" column="84" selection-start-line="32" selection-start-column="84" selection-end-line="32" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo5/DgSpider/DgSpider/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo5/DgSpider/DgSpider/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo5/DgSpider/DgSpider/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo5/DgSpider/DgSpider/spiders/__init__.py">
+    <entry file="file://$PROJECT_DIR$/sklearn/test4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo5/DgSpider/DgSpider/spiders/douban.py">
+    <entry file="file://$PROJECT_DIR$/pygame001/neuro_evolution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo5/DgSpider/DgSpider/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo5/DgSpider/scrapy.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo5/DgSpider/DgSpider/spiders/quote_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo6/csdn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo5/DgSpider/DgSpider/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="15" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drawline/drawling1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drawline/drawing2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drawline/drawing3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drawline/sinx.jpg" />
-    <entry file="file://$PROJECT_DIR$/drawline/line.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drawline/drawing4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/process/process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="17" />
+        <state relative-caret-position="3363">
+          <caret line="177" column="32" selection-start-line="177" selection-start-column="8" selection-end-line="177" selection-end-column="32" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#111#122#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/process/process1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-          <folding>
-            <element signature="e#117#139#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/threadLocal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/site-packages/flask/globals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="16" column="20" selection-start-line="16" selection-end-line="16" selection-end-column="20" />
-          <folding>
-            <element signature="e#251#280#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/demo1/templates/user.html">
+    <entry file="file://$PROJECT_DIR$/pygame001/game.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+          <folding>
+            <element signature="e#110#123#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask/first.py">
+    <entry file="file://$PROJECT_DIR$/midiDemo/test1.py" />
+    <entry file="file://$PROJECT_DIR$/flask_blog/app/models.py" />
+    <entry file="file://$PROJECT_DIR$/flask_blog/manager.py" />
+    <entry file="file://$PROJECT_DIR$/flask_blog/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/flask_blog/app/email.py" />
+    <entry file="file://$PROJECT_DIR$/flask_blog/microblog.py" />
+    <entry file="file://$PROJECT_DIR$/flask_blog/d.py" />
+    <entry file="file://$PROJECT_DIR$/flask_blog/support.py" />
+    <entry file="file://$PROJECT_DIR$/flask_blog/test.py" />
+    <entry file="file://$PROJECT_DIR$/sklearn/test5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="133">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_blog/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_blog/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_blog/app/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_blog/app/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_blog/app/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_blog/app/routes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_blog/app/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/demo2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flask/demo1/templates/param.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="58" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/demo1/templates/iftest.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/user_agent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding>
-            <element signature="e#13#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/demo1/templates/common.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/demo1/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/demo1/templates/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/demo1/templates/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/demo1/templates/500.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/demo1/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/demo1/templates/statictest.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flask/demo1/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="9" />
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="47" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -648,76 +520,188 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/flask/demo1/monent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="54" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="54" />
+        <state>
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask/demo1/templates/moment.html">
+    <entry file="file://$PROJECT_DIR$/flask/demo3/app/templates/my-script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/demo3/app/templates/404.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="114">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask/demo1/gtest.py">
+    <entry file="file://$PROJECT_DIR$/flask/demo3/app/templates/user.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state>
+          <caret selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/demo3/app/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/demo3/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/demo3/app/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drawline/line.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpydemo/background.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpydemo/demo1/stopwords.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpydemo/demo1/signature.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpydemo/demo1/background.jfif">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/demo3/app/static/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpydemo/demo2/sex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63935" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpydemo/demo1/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="e#18#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo4/wumingxioazhu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo4/douban1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#25#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo4/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo4/xiaoshuo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="48" column="50" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
+          <folding>
+            <element signature="e#23#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpydemo/city.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/wxpy/api/messages/message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="355" column="40" selection-start-line="355" selection-start-column="31" selection-end-line="355" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/wxpy/api/chats/chat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="127" column="12" selection-start-line="127" selection-start-column="8" selection-end-line="127" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/comtypes/test/test_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="108" column="4" selection-start-line="108" selection-start-column="4" selection-end-line="108" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/qqbot/qconf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="485" column="17" selection-start-line="485" selection-start-column="17" selection-end-line="485" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpydemo/demo3/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="54" column="85" selection-start-line="54" selection-start-column="85" selection-end-line="54" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpydemo/demo2/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="68" column="15" lean-forward="true" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_blog/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file:///usr/local/lib/python3.6/site-packages/qqbot/qqbotcls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="341" column="13" lean-forward="true" selection-start-line="341" selection-start-column="13" selection-end-line="341" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_blog/manager.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_blog/app/main/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_blog/app/main/errors.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_blog/app/main/forms.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_blog/app/main/views.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_blog/app/email.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_blog/app/models.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/site-packages/flask_moment.py">
+    <entry file="file://$PROJECT_DIR$/qqbotdemo/index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_blog/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="38" column="6" selection-start-line="38" selection-end-line="38" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_blog/app/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="7" />
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
         </state>
       </provider>
     </entry>

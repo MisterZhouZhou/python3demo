@@ -59,7 +59,7 @@ Modify:
 """
 def showdatas(datingDataMat, datingLabels):
     #设置汉字格式
-    font = FontProperties(fname=r"/Users/zhouwei/Desktop/python3/python3demo/demo4/simsun.ttc", size=14)
+    font = FontProperties(fname=r"simsun.ttc", size=14)
     #将fig画布分隔成1行1列,不共享x轴和y轴,fig画布的大小为(13,8)
     #当nrow=2,nclos=2时,代表fig画布被分为四个区域,axs[0][0]表示第一行第一个区域
     fig, axs = plt.subplots(nrows=2, ncols=2,sharex=False, sharey=False, figsize=(13,8))
