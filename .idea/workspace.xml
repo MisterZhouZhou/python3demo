@@ -2,15 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68997408-81cc-4da3-a4e6-a08331978476" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/suanfa/twoNumMiddle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/suanfa/twoNumSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather/city_code.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather/city_code.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather/weather.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wymusic/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wifi/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python2.7/base/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python2.7/base/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python2.7/base/hello2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python2.7/base/test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python2.7/base/while.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/flaskdemo/.idea/flaskdemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/flaskdemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/flaskdemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/flaskdemo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/weixinrabit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/weixinrabit/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/weixinrabit/.idea/weixinrabit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/weixinrabit/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/weixinrabit/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/weixinrabit/itchat.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/yanxidemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/yanxidemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/yanxidemo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/yanxidemo/.idea/yanxidemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/yanxidemo/simsun.ttc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/yanxidemo/test.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/yanxidemo/test1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3/yanxidemo/yanxi.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,46 +36,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="weather.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weather/weather.py">
+      <file leaf-file-name="request1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo2/request1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding>
+                <element signature="e#24#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="game.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pygame001/game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2219">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="22" />
+              <folding>
+                <element signature="e#110#123#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="enemy.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pygame001/enemy.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="index.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qqbotdemo/index.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-253" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robot1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/robotdemo/robot1.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="sina1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo3/sina1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="33" column="30" selection-start-line="32" selection-start-column="4" selection-end-line="33" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wymusic/index.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="116" column="21" lean-forward="true" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="plane.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pygame001/plane.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="city_code.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weather/city_code.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="84" selection-end-line="5" selection-end-column="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="city_code.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weather/city_code.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="27" selection-start-column="18" selection-end-column="27" />
-            </state>
-          </provider>
+      <file leaf-file-name="neuro_evolution.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pygame001/neuro_evolution.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -192,18 +225,12 @@
             <path>
               <item name="python3demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="python3demo" type="462c0819:PsiDirectoryNode" />
-              <item name="weather" type="462c0819:PsiDirectoryNode" />
+              <item name="demo2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python3demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="python3demo" type="462c0819:PsiDirectoryNode" />
-              <item name="wymusic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python3demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python3demo" type="462c0819:PsiDirectoryNode" />
-              <item name="wymusic" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="demo3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -368,16 +395,16 @@
   <component name="ToolWindowManager">
     <frame x="71" y="34" width="1363" height="877" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676025" visible="true" weight="0.18405364" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49676025" visible="true" weight="0.1833085" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3509687" side_tool="true" visible="true" weight="0.102564104" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6490313" visible="true" weight="0.102564104" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3509687" side_tool="true" visible="true" weight="0.2897436" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49850968" weight="0.4551282" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49925485" weight="0.32948717" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6490313" weight="0.102564104" />
       <window_info id="Structure" order="1" sideWeight="0.50323975" side_tool="true" weight="0.15722802" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.5804769" weight="0.13205129" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -396,85 +423,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/weibo/background.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weibo/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="152" column="12" selection-start-line="152" selection-start-column="12" selection-end-line="152" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_blog/app/routes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_blog/app/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/demo3/app/templates/my-script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/demo3/app/static/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/demo3/app/templates/user.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/demo3/app/templates/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/site-packages/wtforms/validators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="223" column="68" selection-start-line="223" selection-start-column="56" selection-end-line="223" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_blog/app/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="10" selection-start-line="1" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/demo3/app/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask/demo3/app/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/site-packages/sqlalchemy/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="146" column="49" selection-start-line="146" selection-start-column="39" selection-end-line="146" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/flask/demo3/app/templates/form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -591,13 +539,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/flasky/app/main/errors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/flasky/app/main/forms.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -606,9 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="48" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -623,9 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1254">
           <caret line="74" column="25" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#75#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -647,9 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="516">
           <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -657,9 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#68#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -670,9 +600,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wifi/index.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/wifi/index.py" />
     <entry file="file://$PROJECT_DIR$/numpy/test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -712,22 +640,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wymusic/data/华晨宇/singer861777.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/wymusic/data/华晨宇/singer861777.csv" />
     <entry file="file://$PROJECT_DIR$/weather/weather.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
+        <state relative-caret-position="551">
           <caret line="33" column="30" selection-start-line="32" selection-start-column="4" selection-end-line="33" selection-end-column="30" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -735,20 +654,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wymusic/data/华晨宇/For Forever.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/wymusic/data/华晨宇/For Forever.txt" />
     <entry file="file://$PROJECT_DIR$/wymusic/index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="116" column="21" lean-forward="true" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="21" />
+        <state relative-caret-position="2014">
+          <caret line="106" column="14" lean-forward="true" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2/request1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#24#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame001/plane.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame001/neuro_evolution.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame001/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2219">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="e#110#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python2.7/base/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-386" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python2.7/base/config.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python2.7/base/hello2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3521" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python2.7/base/test.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python2.7/base/while.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygame001/enemy.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qqbotdemo/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robotdemo/robot1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo3/sina1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
